@@ -10,3 +10,11 @@ h5, p{
   font-size: 20px;
   background-color: #ae4ebf;
 }
+hr{
+  background-color:#ae4ebf;
+  height: 50%;
+}
+.pic{
+  width: 330px;
+  height: 330px;
+}
