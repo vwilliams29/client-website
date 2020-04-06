@@ -25,5 +25,12 @@ hr{
 
 }
 .Color{
-  background-color:#ae4ebf; 
+  background-color:#ae4ebf;
+  }
+.Green{
+  background-color:#0bb513;
+  height: 50%;
+}
+p{
+  font-family: 'Spicy Rice', cursive;
   }
